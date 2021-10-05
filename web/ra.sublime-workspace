@@ -1,0 +1,494 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"overlow",
+				"overflow-x-auto"
+			],
+			[
+				"font",
+				"font-color"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"bg-ri",
+				"bg-right-top"
+			],
+			[
+				"border",
+				"border-teal-700"
+			],
+			[
+				"text-",
+				"text-white"
+			],
+			[
+				"border-",
+				"border-gray-500"
+			],
+			[
+				"from",
+				"from-teal-500"
+			],
+			[
+				"backgro",
+				"background-image\tproperty"
+			],
+			[
+				"justify",
+				"justify-center"
+			],
+			[
+				"bg-",
+				"bg-orange-500"
+			],
+			[
+				"array_k",
+				"array_key_exists"
+			],
+			[
+				"justif",
+				"justify-start"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"pos",
+				"pos-f\tposition: fixed;"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"text",
+				"text-red-100"
+			],
+			[
+				"clas",
+				"class\tAttr"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"ur",
+				"url()\tbackground-image"
+			],
+			[
+				"no",
+				"no-underline"
+			],
+			[
+				"bg--v",
+				"bg-v-copper"
+			],
+			[
+				"bg-v",
+				"bg-v-copper"
+			],
+			[
+				"just",
+				"justify-center"
+			],
+			[
+				"cla",
+				"class\tAttr"
+			],
+			[
+				"flex",
+				"flex\tproperty"
+			],
+			[
+				"wrap",
+				"flex-wrap\tproperty"
+			],
+			[
+				"entr",
+				"entries\tentries"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS - Compressed.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"auy",
+				"ayu: Activate theme"
+			],
+			[
+				"",
+				"Changelog"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andrew/Sites/ra"
+	],
+	"file_history":
+	[
+		"/Users/andrew/Sites/ra/web/index.html",
+		"/Users/andrew/Sites/ra/web/stitches.html",
+		"/Users/andrew/Sites/ra/web/css/styles.css",
+		"/Users/andrew/Sites/cdh/templates/index.html",
+		"/Users/andrew/Sites/cdh/templates/links/_entry.twig",
+		"/Users/andrew/Sites/cdh/templates/_layout.twig",
+		"/Users/andrew/Sites/verso/.env",
+		"/Users/andrew/Sites/cdh/templates/includes/_featuredbook.twig",
+		"/Users/andrew/Sites/cdh/.env",
+		"/Users/andrew/Sites/cdh/composer.json",
+		"/Users/andrew/Sites/cdh/templates/includes/_brand.twig",
+		"/Users/andrew/Sites/cdh/templates/includes/_hero.twig",
+		"/Users/andrew/Sites/cdh/templates/includes/_featuredblog.twig",
+		"/Users/andrew/Sites/frb/config/redactor/Link.json",
+		"/Users/andrew/Sites/verso/Verso.sublime-project",
+		"/Users/andrew/Sites/verso/templates/partials/_nav.twig",
+		"/Users/andrew/Sites/verso/templates/search/results.twig",
+		"/Users/andrew/Sites/verso/templates/nav.html",
+		"/Users/andrew/Sites/verso/templates/partials/_searchbox.twig",
+		"/Users/andrew/Downloads/search-solid.svg",
+		"/Users/andrew/Sites/frb/templates/_layout.html",
+		"/Users/andrew/Sites/frb/frb.sublime-project",
+		"/Users/andrew/Sites/verso/templates/authors/index.html",
+		"/Users/andrew/Sites/verso/templates/authors/_entry.twig",
+		"/Users/andrew/Sites/juicy/templates/menus/index.html",
+		"/Users/andrew/Sites/juicy/templates/_layout.html",
+		"/Users/andrew/Sites/juicy/templates/index.html",
+		"/Users/andrew/Sites/juicy/templates/locations/index.html",
+		"/Users/andrew/Sites/juicy/templates/locations/_entry.twig",
+		"/Users/andrew/Sites/juicy/templates/_modules/text.twig",
+		"/Users/andrew/Sites/juicy/templates/_modules/imagetext.twig",
+		"/Users/andrew/Sites/juicy/templates/_modules/image.twig",
+		"/Users/andrew/Sites/juicy/templates/_modules/button.twig",
+		"/Users/andrew/Sites/juicy/templates/_modules/code.twig",
+		"/Users/andrew/Sites/juicy/templates/_includes/_footer.twig",
+		"/Users/andrew/Sites/juicy/templates/_modules/hero.twig",
+		"/Users/andrew/Sites/juicy/templates/_modules/feature.twig",
+		"/Users/andrew/Sites/juicy/templates/_modules/entrytitle.twig",
+		"/Users/andrew/Sites/juicy/templates/_modules/loop.twig",
+		"/Users/andrew/Sites/juicy/config/tailwind.config.js",
+		"/Users/andrew/Sites/juicy/config/redactor/Link.json",
+		"/Users/andrew/Sites/c42/templates/partials/_blog.twig",
+		"/Users/andrew/Sites/c42/templates/blog/index.html",
+		"/Users/andrew/Sites/c42/templates/partials/_nav.twig",
+		"/Users/andrew/Sites/juicy/juicy.sublime-project",
+		"/Users/andrew/Sites/c42/config/redactor/Link.json",
+		"/Users/andrew/Sites/c42/templates/index.html",
+		"/Users/andrew/Sites/c42/templates/partials/_footer.twig",
+		"/Users/andrew/Sites/c42/templates/_base.twig",
+		"/Users/andrew/Sites/frb/templates/index.html",
+		"/Users/andrew/Sites/frb/web/assets/js/app.js",
+		"/Users/andrew/Sites/frb/web/assets/css/diazcooper-custom.css",
+		"/Users/andrew/Downloads/compress-arrows-alt-solid.svg",
+		"/Users/andrew/Sites/juicy/templates/blog/index.html",
+		"/Users/andrew/Sites/juicy/templates/contact/_entry.twig",
+		"/Users/andrew/Sites/juicy/templates/_includes/page_header.html",
+		"/Users/andrew/Sites/juicy/templates/blog/_entry.html",
+		"/Users/andrew/Sites/juicy/templates/_modules/findjuicy.twig",
+		"/Users/andrew/Sites/juicy/templates/blog/_card.twig",
+		"/Users/andrew/Sites/juicy/templates/blog/_category.html",
+		"/Users/andrew/Sites/rogue-marketing-site/templates/_macros/components.twig",
+		"/Users/andrew/Sites/rogue-marketing-site/templates/_components/videoEmbed.twig",
+		"/Users/andrew/Sites/rogue-marketing-site/templates/_blocks/B7-lpIntro.twig",
+		"/Users/andrew/Sites/rogue-marketing-site/templates/includes/layouts/L14-videos.twig",
+		"/Users/andrew/Sites/rogue-marketing-site/.env",
+		"/Users/andrew/Sites/rogue-marketing-site/config/general.php",
+		"/Users/andrew/Sites/rogue-marketing-site/templates/includes/layouts/L11-faq-landing.twig",
+		"/Users/andrew/Sites/rogue-marketing-site/templates/_blocks/B10-faqsGrid.twig",
+		"/Users/andrew/Sites/rogue-marketing-site/templates/_blocks/B4-fullWidthImageCta.twig",
+		"/Users/andrew/Sites/rogue-marketing-site/templates/videos/_entry.twig",
+		"/Users/andrew/Sites/rogue-marketing-site/templates/_layouts/default.twig",
+		"/Users/andrew/Sites/rogue-marketing-site/resources/sass/_videos.scss",
+		"/Users/andrew/Sites/rogue-marketing-site/resources/sass/main.scss",
+		"/Users/andrew/Sites/rogue-marketing-site/templates/_macros/classes.twig",
+		"/Users/andrew/Sites/rogue-marketing-site/templates/includes/layouts/L13-journalistic-story-detail.twig",
+		"/Users/andrew/Sites/rogue-marketing-site/templates/_macros/forms.twig",
+		"/Users/andrew/Sites/rogue-marketing-site/templates/includes/layouts/L5-service-detail.twig",
+		"/Users/andrew/Sites/rogue-marketing-site/resources/sass/_icons.scss",
+		"/Users/andrew/Sites/rogue-marketing-site/templates/includes/layouts/L3a-transfer-station.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/blocks/testimonial.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/blog/_entry.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/blog/_blocks/featuredpost.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/blog/index.html",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/buttonwhite.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/blocks/cta.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/blocks/multibutton.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/blocks/people.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_layout.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/blocks/benefits.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/web/assets/css/flipcard.css",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/blocks/highlight.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/blocks/feature.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/contactinfo.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/footer.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/social-links.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/blog/_blocks/card.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/contact.html",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/nav.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/blocks/embed.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/blocks/hero.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/tailwind.config.js",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/circut.svg",
+		"/Users/andrew/Sites/fixed-fee-it-website/web/assets/images/circut.svg",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/blog/_blocks/cats.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/blog/_blocks/pagination.twig",
+		"/Users/andrew/Sites/juicy/templates/_includes/contact-types.twig",
+		"/Users/andrew/Sites/juicy/templates/_includes/_menu.twig",
+		"/Users/andrew/Sites/juicy/templates/_includes/_menu-new.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/blog/_cat.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/index.html",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_pages/_entry.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/body.twig",
+		"/Users/andrew/Desktop/web.log",
+		"/Users/andrew/Sites/fixed-fee-it-website/.env",
+		"/Users/andrew/Sites/fixed-fee-it-website/.gitignore",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/contentloop.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/blocks/job-posts.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/templates/_partials/embed.twig",
+		"/Users/andrew/Sites/fixed-fee-it-website/config/src/srcstyles.css",
+		"/Users/andrew/Dropbox/c42/Daylight/FFIT/FFIT Latest w Icons/help.svg",
+		"/Users/andrew/Dropbox/c42/Daylight/FFIT/FFIT Latest w Icons/managed.svg",
+		"/Users/andrew/Dropbox/c42/Daylight/FFIT/FFIT Latest w Icons/respectplants.svg",
+		"/Users/andrew/Dropbox/c42/Daylight/FFIT/FFIT Latest w Icons/rocket.svg",
+		"/Users/andrew/Dropbox/c42/Daylight/FFIT/FFIT Latest w Icons/stratigies.svg",
+		"/Users/andrew/Dropbox/c42/Daylight/FFIT/FFIT Latest w Icons/weareateam.svg",
+		"/Users/andrew/Dropbox/c42/Daylight/FFIT/FFIT Latest w Icons/whitebluecircut.svg",
+		"/Users/andrew/Sites/fixed-fee-it-website/web/css/styles.css",
+		"/Users/andrew/Sites/fixed-fee-it-website/config/general.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 137.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ra.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hero",
+				"templates/_partials/blocks/hero.twig"
+			],
+			[
+				"high",
+				"templates/_partials/blocks/highlight.twig"
+			],
+			[
+				"benefi",
+				"templates/_partials/blocks/benefits.twig"
+			],
+			[
+				"",
+				"~/Downloads/verso.ink_200718_002010_r5qynpnvmi_v3.4.28.1.sql"
+			],
+			[
+				"breadcrumbs",
+				"vendor/yiisoft/yii2/widgets/Breadcrumbs.php"
+			],
+			[
+				"bread",
+				"templates/components/breadcrumbs.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 394.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
